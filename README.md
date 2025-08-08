@@ -30,6 +30,5 @@ It allows users to:
 
 ## ▶️ How to Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Password-Generator.git
+   git clone https://github.com/DiyaRana7/codsoft_task_3.git
 
